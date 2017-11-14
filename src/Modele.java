@@ -10,7 +10,7 @@ import com.mysql.jdbc.PreparedStatement;
 
 
 public class Modele {
-	//coucou madame
+	//coucou madame et moi
 	private static Connection connexion ;
 	private static Statement state;
 	private static ResultSet rs, rs2;
