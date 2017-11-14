@@ -1,4 +1,4 @@
-
+//ceci est un genre
 public class Genre {
 	private int codeGenre;
 	private String libelle;
